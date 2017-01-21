@@ -18,6 +18,7 @@
     [super viewDidLoad];
     //这只是一个测试
     //添加了一句话
+    //拉拉手机阿拉斯加阿拉斯加拉沙拉时间阿拉斯加
     // Do any additional setup after loading the view, typically from a nib.
 }
 
